@@ -26,3 +26,13 @@ public class Road_Toll {
 	}
 	
 }
+
+public class RoadToll_Main {
+
+	public static void main(String[] args) {
+		
+		
+		
+		}
+
+}
