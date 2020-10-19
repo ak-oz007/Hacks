@@ -15,3 +15,14 @@ public class Road_Toll {
 			System.out.println("Incorrect tire count");
 		}
 	}
+	
+	public Road_Toll() {
+		System.out.println("Constructor is executed");
+	}
+	
+	public Road_Toll(String type, int tiresCount) {
+		this.type = type;
+		this.tiresCount = tiresCount;
+	}
+	
+}
